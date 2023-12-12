@@ -9,7 +9,7 @@ import testData.testData;
 
 import java.time.Duration;
 
-public class All_Tests {
+public class Tests {
 
     WebDriver driver;
     WebDriverWait wait;
